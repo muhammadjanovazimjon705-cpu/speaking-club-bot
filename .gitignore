@@ -1,0 +1,12 @@
+# Dependencies (Kutubxonalar)
+node_modules/
+
+# Environment variables (Maxfiy ma'lumotlar)
+.env
+
+# Database (Baza fayli)
+data/
+*.db
+
+# Logs
+npm-debug.log*
